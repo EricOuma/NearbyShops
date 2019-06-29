@@ -1,0 +1,1569 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.7 8b86ff77",
+  "osm3s": {
+    "timestamp_osm_base": "2019-06-29T16:56:02Z",
+    "timestamp_areas_base": "2019-06-29T15:55:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 354332836,
+      "lat": -4.0496788,
+      "lon": 39.686036,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Tamarind Road",
+        "name": "Chandarana Foodplus",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2261428724,
+      "lat": -4.0221453,
+      "lon": 39.7188923,
+      "tags": {
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264299107,
+      "lat": -4.0465069,
+      "lon": 39.6849312,
+      "tags": {
+        "shop": "fishmonger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2264299108,
+      "lat": -4.0466853,
+      "lon": 39.6844658,
+      "tags": {
+        "name": "Anglo Meats",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2306076492,
+      "lat": -4.0535079,
+      "lon": 39.6891702,
+      "tags": {
+        "name": "Roberto's",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2306076493,
+      "lat": -4.0534704,
+      "lon": 39.689433,
+      "tags": {
+        "name": "Casurina",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2306122330,
+      "lat": -4.01742,
+      "lon": 39.7220674,
+      "tags": {
+        "name": "Auto Marine",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2492339100,
+      "lat": -4.0634739,
+      "lon": 39.6610318,
+      "tags": {
+        "addr:street": "Ganjoni Road",
+        "name": "Sawa Motors",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2694778591,
+      "lat": -4.0609293,
+      "lon": 39.6717731,
+      "tags": {
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2832353001,
+      "lat": -4.060416,
+      "lon": 39.672338,
+      "tags": {
+        "name": "Tuskys Digo",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3103662087,
+      "lat": -4.0502148,
+      "lon": 39.6856455,
+      "tags": {
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3437811292,
+      "lat": -4.0747368,
+      "lon": 39.6656237,
+      "tags": {
+        "name": "Nakumatt Likoni",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4104941406,
+      "lat": -4.0510118,
+      "lon": 39.674457,
+      "tags": {
+        "name": "Fayaz Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4109433685,
+      "lat": -4.0107302,
+      "lon": 39.7231105,
+      "tags": {
+        "name": "Sollatek",
+        "shop": "Green_Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4172662090,
+      "lat": -4.0024142,
+      "lon": 39.7019604,
+      "tags": {
+        "name": "Nakumatt Bamburi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4435063789,
+      "lat": -4.0568294,
+      "lon": 39.664683,
+      "tags": {
+        "addr:street": "Lumumba Road",
+        "name": "M&M trading",
+        "name:en": "M&M trading",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "0717561560",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4627761789,
+      "lat": -4.0740617,
+      "lon": 39.6632967,
+      "tags": {
+        "addr:street": "Mbaraki Road",
+        "name": "Samaki poa (seco)",
+        "name:en": "Samaki poa (seco)",
+        "opening_hours": "Mo-Su 07:00-13:00",
+        "shop": "seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5066153121,
+      "lat": -4.0584819,
+      "lon": 39.6732191,
+      "tags": {
+        "name": "Sunrise Spices",
+        "name:en": "Sunrise Spices",
+        "shop": "beverages"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5067055222,
+      "lat": -4.0608254,
+      "lon": 39.6723408,
+      "tags": {
+        "name": "Tshirts Shop",
+        "name:en": "Tshirts Shop",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5308432163,
+      "lat": -4.0591866,
+      "lon": 39.6723542,
+      "tags": {
+        "name": "A1 Super Market",
+        "shop": "supermarket",
+        "source": "Dira Ventures"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5308432175,
+      "lat": -4.0521265,
+      "lon": 39.6627357,
+      "tags": {
+        "name": "Zedco",
+        "shop": "car_repair",
+        "source": "Dira Ventures"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5308432176,
+      "lat": -4.0525038,
+      "lon": 39.6623073,
+      "tags": {
+        "name": "Halwa Bawaly Msa",
+        "shop": "yes",
+        "source": "Dira Ventures"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5308432179,
+      "lat": -4.0537912,
+      "lon": 39.662239,
+      "tags": {
+        "name": "Abu Salim Butchery & Fish Shop",
+        "operator": "Maimai",
+        "shop": "butcher",
+        "source": "Dira Ventures"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5308432181,
+      "lat": -4.0516697,
+      "lon": 39.6607231,
+      "tags": {
+        "name": "Bakhressa Shop",
+        "shop": "yes",
+        "source": "Dira Ventures"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5308432214,
+      "lat": -4.0489949,
+      "lon": 39.6591101,
+      "tags": {
+        "name": "Kingorani/Minazini hardware",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5309820919,
+      "lat": -4.0620907,
+      "lon": 39.6700726,
+      "tags": {
+        "name": "Airtel Kenya",
+        "shop": "mobile_phone",
+        "source": "Dira Ventures"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5309823326,
+      "lat": -4.0610795,
+      "lon": 39.6644692,
+      "tags": {
+        "name": "Jubilee Arcade",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826717186,
+      "lat": -4.0611521,
+      "lon": 39.6682837,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Budget Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826717288,
+      "lat": -4.06097,
+      "lon": 39.6684729,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Liq Nail studio and Hairstyles and Massage",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826717986,
+      "lat": -4.0601089,
+      "lon": 39.668609,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Everfresh Vegetables;Hotel Dorse",
+        "shop": "greengrocer",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826717989,
+      "lat": -4.0581245,
+      "lon": 39.6633598,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Tusky Bandari Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826717990,
+      "lat": -4.062984,
+      "lon": 39.6675296,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "D T Dobie car dealers",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826749285,
+      "lat": -4.0599926,
+      "lon": 39.6688236,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Micron Exhaust East African Industry",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826749289,
+      "lat": -4.058873,
+      "lon": 39.6718489,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Hitex Emporium school uniform",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826749686,
+      "lat": -4.0600727,
+      "lon": 39.6712067,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Zedsons House electronic",
+        "shop": "electronics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5826751185,
+      "lat": -4.061981,
+      "lon": 39.6718526,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Budget Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5829759185,
+      "lat": -4.06209,
+      "lon": 39.6686367,
+      "tags": {
+        "addr:postcode": "80100",
+        "name": "Safaricom",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5829778392,
+      "lat": -4.0655435,
+      "lon": 39.6744856,
+      "tags": {
+        "name": "Forster's Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5985324581,
+      "lat": -4.0434794,
+      "lon": 39.6591506,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mombasa road",
+        "name": "Spaki Auto Spares",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5985326935,
+      "lat": -4.0428629,
+      "lon": 39.6586658,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mombasa road",
+        "name": "Ismaco For Truck Parts",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5989443345,
+      "lat": -4.0421243,
+      "lon": 39.6657506,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Tom Mboya road",
+        "name": "Garage Renault",
+        "operator": "NCCK Coast Region",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5993040339,
+      "lat": -4.0451365,
+      "lon": 39.6610855,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mombasa road",
+        "name": "Associated Motors Limited",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5993065008,
+      "lat": -4.0467584,
+      "lon": 39.6623022,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mombasa road",
+        "name": "Tudor Tyres & Batteries Limited",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5995184721,
+      "lat": -4.0464591,
+      "lon": 39.6575417,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Lumumba Road",
+        "name": "Jan Japan (K) Limited",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5997655358,
+      "lat": -4.0295428,
+      "lon": 39.6309297,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Magongo road",
+        "name": "Changamwe Stationers",
+        "shop": "stationery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5997734241,
+      "lat": -4.0277903,
+      "lon": 39.6281354,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Magongo road",
+        "name": "Bin Abdulmana Automobile",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6009876094,
+      "lat": -4.0406346,
+      "lon": 39.657582,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Tom Mboya road",
+        "name": "AUTODIRECT MOMBASA",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6022131177,
+      "lat": -4.0414764,
+      "lon": 39.667348,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Taratibu street",
+        "name": "Stores",
+        "operator": "TEZI MARITIME",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6022158556,
+      "lat": -4.039114,
+      "lon": 39.6664862,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Obote Avenue",
+        "name": "Soko Yako Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6022321351,
+      "lat": -4.0371731,
+      "lon": 39.6652372,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Obote Avenue",
+        "name": "Hospitality, Tourism and Catering Department(TUM)",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6022334933,
+      "lat": -4.0372836,
+      "lon": 39.6640557,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Manyimbo road",
+        "name": "Mozart Unisex Salon & Kinyozi",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6022375524,
+      "lat": -4.0349896,
+      "lon": 39.663023,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Tom Mboya road",
+        "name": "Tudor Inn Butcher",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6031552857,
+      "lat": -4.0408237,
+      "lon": 39.6813277,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Links road",
+        "name": "China Furniture Centre",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6031553044,
+      "lat": -4.0431409,
+      "lon": 39.6815286,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Links road",
+        "name": "Kengeleni Supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6031678072,
+      "lat": -4.053332,
+      "lon": 39.6892062,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Nyali Road",
+        "name": "Roberto's Italian Shop & Sandwiches",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6038646575,
+      "lat": -4.0451098,
+      "lon": 39.7021196,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mbuni Road",
+        "name": "Fedex Mombasa",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6038655427,
+      "lat": -4.045875,
+      "lon": 39.6980506,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Oleander Road",
+        "name": "Oriel Limited",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6038655428,
+      "lat": -4.047792,
+      "lon": 39.6975801,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Kasuku road",
+        "name": "Wines Of The World",
+        "shop": "wine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6038681139,
+      "lat": -4.0401781,
+      "lon": 39.700812,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Beach Road",
+        "name": "Captain Andy's Kenya",
+        "shop": "outdoor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6041351203,
+      "lat": -3.9992225,
+      "lon": 39.7018144,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Old Malindi Road",
+        "name": "Naivas The Hub",
+        "shop": "greengrocer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048411435,
+      "lat": -4.0428954,
+      "lon": 39.6449243,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Kismayu Road",
+        "name": "Naivas",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048411440,
+      "lat": -4.0389616,
+      "lon": 39.6466956,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Kismayu Road",
+        "name": "Makupa Transit Shade CFS",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048461231,
+      "lat": -4.0403684,
+      "lon": 39.6524023,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Makande Road",
+        "name": "Ideal Ceramics",
+        "shop": "bathroom_furnishing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048461266,
+      "lat": -4.0470158,
+      "lon": 39.6505673,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Shimanzi Rd",
+        "name": "Ufanisi Freighters K Ltd",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048461282,
+      "lat": -4.0491333,
+      "lon": 39.6537482,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "80107 Mashundu Street",
+        "name": "Finlays",
+        "shop": "tea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048461283,
+      "lat": -4.0499082,
+      "lon": 39.651592,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Shimanzi Road",
+        "name": "Mitchell Cotts Freights Kenya Ltd",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048525798,
+      "lat": -4.0601826,
+      "lon": 39.653258,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Zanzibar Road",
+        "name": "Harbor Freight Tools",
+        "operator": "Portside Freight Terminals Lim",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048525805,
+      "lat": -4.06063,
+      "lon": 39.6563199,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Moi Avenue",
+        "name": "Auto Cats International Ltd",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048562075,
+      "lat": -4.0612287,
+      "lon": 39.6577555,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Archbishop Makarios Road",
+        "name": "CMC Motors",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048562078,
+      "lat": -4.0618162,
+      "lon": 39.657423,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Archbishop Makarios Road",
+        "name": "Landrover Dealership",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048562079,
+      "lat": -4.0603761,
+      "lon": 39.6569585,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Moi Avenue",
+        "name": "Auto Ports Freight Terminal Ltd",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048562082,
+      "lat": -4.0572918,
+      "lon": 39.6576595,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Machakos Street",
+        "name": "Harbor Freight Tools",
+        "operator": "Spedag Interfreight",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048913161,
+      "lat": -4.0712496,
+      "lon": 39.6616768,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Tangana Road",
+        "name": "African Marine and General Engineering Company Limited",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048913162,
+      "lat": -4.0700614,
+      "lon": 39.6652951,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mbaraki Road",
+        "name": "Kencont Logistics Services Limited",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048949206,
+      "lat": -4.0691349,
+      "lon": 39.665231,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mbaraki Road",
+        "name": "Tile And Carpet Centre",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6050825485,
+      "lat": -4.0095778,
+      "lon": 39.6795667,
+      "tags": {
+        "name": "Bruno",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6054239874,
+      "lat": -4.0668926,
+      "lon": 39.6641472,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Bunyala Road",
+        "name": "Furniture Palace",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6054455937,
+      "lat": -4.0564948,
+      "lon": 39.6658915,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mwembe Tayari Road",
+        "name": "Nairobi Sports House",
+        "shop": "sports"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6054467726,
+      "lat": -4.0512864,
+      "lon": 39.6651627,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mombasa road",
+        "name": "Huseini Bakery",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6054729001,
+      "lat": -4.0603583,
+      "lon": 39.6612953,
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Factory Road",
+        "name": "Mombasa Toyota Kenya",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6087411785,
+      "lat": -4.0025465,
+      "lon": 39.7018947,
+      "tags": {
+        "name": "Naivas Bamburi",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 114199216,
+      "nodes": [
+        1293910519,
+        1293910665,
+        1293911150,
+        4107841611,
+        1293910971,
+        1293911420,
+        1293911542,
+        1293910460,
+        1293910596,
+        1293911096,
+        1293911210,
+        1293911667,
+        1293911800,
+        1293910740,
+        1293910862,
+        1293910519
+      ],
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Nyerere Avenue",
+        "building": "yes",
+        "name": "Nakumatt Likoni",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216749298,
+      "nodes": [
+        6339706595,
+        2261412892,
+        2261412858,
+        2261412850,
+        2261412852,
+        2261412887,
+        2261412862,
+        2261412900,
+        2261412870,
+        2261412854,
+        2261412881,
+        6339706595
+      ],
+      "tags": {
+        "building": "supermarket",
+        "name": "Nakumatt Nyali",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 216750491,
+      "nodes": [
+        2261417383,
+        2261412881,
+        2261412854,
+        2261417378,
+        2261417376,
+        2261417387,
+        2261417389,
+        2261417383
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "City Mall",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 381700160,
+      "nodes": [
+        3848640818,
+        3848640819,
+        3848640820,
+        3848640821,
+        3848640822,
+        3848640823,
+        3848640824,
+        3848640825,
+        3848640818
+      ],
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Mamba roundabout",
+        "building": "yes",
+        "name": "Amal Plaza",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 408840722,
+      "nodes": [
+        4107480490,
+        4107480491,
+        4107480492,
+        4107480493,
+        4107480490
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "The Avenue",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 408849703,
+      "nodes": [
+        4107591484,
+        4107591485,
+        4107591486,
+        4107591487,
+        4107591484
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "ZamZam Shop",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 408849704,
+      "nodes": [
+        4107591488,
+        4107591889,
+        4107591890,
+        4107591891,
+        4107591488
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Mega Fruit And Vegetable",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549901619,
+      "nodes": [
+        5311897976,
+        5311897977,
+        5311897978,
+        5311897979,
+        5311897976
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Omar Ainen & Co Hardware",
+        "shop": "hardware"
+      }
+    },
+    {
+      "type": "way",
+      "id": 563820081,
+      "nodes": [
+        5432988163,
+        5432988164,
+        5432988165,
+        5432988166,
+        5432988163
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bin Agil Meat And Fish Supply",
+        "shop": "butcher"
+      }
+    },
+    {
+      "type": "way",
+      "id": 563820082,
+      "nodes": [
+        5432988167,
+        5432988168,
+        5432988169,
+        5432988170,
+        5432988167
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Afnan Decor",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "way",
+      "id": 666063279,
+      "nodes": [
+        6235829880,
+        6235829881,
+        6235829882,
+        6235829883,
+        6235829884,
+        6235830585,
+        6235830586,
+        6235830587,
+        6235829880
+      ],
+      "tags": {
+        "addr:city": "Mombasa",
+        "addr:street": "Magongo Road",
+        "name": "TransAfrica Motors Limited",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6235830587,
+      "lat": -4.011118,
+      "lon": 39.5967842
+    },
+    {
+      "type": "node",
+      "id": 6235829880,
+      "lat": -4.0091136,
+      "lon": 39.5972281
+    },
+    {
+      "type": "node",
+      "id": 6235829881,
+      "lat": -4.0093079,
+      "lon": 39.5994477
+    },
+    {
+      "type": "node",
+      "id": 6235829882,
+      "lat": -4.0104619,
+      "lon": 39.5987933
+    },
+    {
+      "type": "node",
+      "id": 6235829883,
+      "lat": -4.0109083,
+      "lon": 39.5979134
+    },
+    {
+      "type": "node",
+      "id": 6235829884,
+      "lat": -4.011017,
+      "lon": 39.5974383
+    },
+    {
+      "type": "node",
+      "id": 6235830585,
+      "lat": -4.0106985,
+      "lon": 39.5970723
+    },
+    {
+      "type": "node",
+      "id": 6235830586,
+      "lat": -4.0111413,
+      "lon": 39.5969711
+    },
+    {
+      "type": "node",
+      "id": 1293910460,
+      "lat": -4.074142,
+      "lon": 39.6658573
+    },
+    {
+      "type": "node",
+      "id": 1293910519,
+      "lat": -4.0733187,
+      "lon": 39.6656558
+    },
+    {
+      "type": "node",
+      "id": 1293910596,
+      "lat": -4.0739532,
+      "lon": 39.6659132
+    },
+    {
+      "type": "node",
+      "id": 1293910665,
+      "lat": -4.0752946,
+      "lon": 39.6650706
+    },
+    {
+      "type": "node",
+      "id": 1293910740,
+      "lat": -4.0735191,
+      "lon": 39.665771
+    },
+    {
+      "type": "node",
+      "id": 1293910862,
+      "lat": -4.073366,
+      "lon": 39.6658164
+    },
+    {
+      "type": "node",
+      "id": 1293910971,
+      "lat": -4.0743582,
+      "lon": 39.6659573
+    },
+    {
+      "type": "node",
+      "id": 1293911096,
+      "lat": -4.0739233,
+      "lon": 39.6658118
+    },
+    {
+      "type": "node",
+      "id": 1293911150,
+      "lat": -4.0754598,
+      "lon": 39.6656311
+    },
+    {
+      "type": "node",
+      "id": 1293911210,
+      "lat": -4.0737377,
+      "lon": 39.6658668
+    },
+    {
+      "type": "node",
+      "id": 1293911420,
+      "lat": -4.074343,
+      "lon": 39.6659058
+    },
+    {
+      "type": "node",
+      "id": 1293911542,
+      "lat": -4.0741712,
+      "lon": 39.6659567
+    },
+    {
+      "type": "node",
+      "id": 1293911667,
+      "lat": -4.0737066,
+      "lon": 39.6657613
+    },
+    {
+      "type": "node",
+      "id": 1293911800,
+      "lat": -4.0735315,
+      "lon": 39.6658132
+    },
+    {
+      "type": "node",
+      "id": 4107841611,
+      "lat": -4.0751161,
+      "lon": 39.6657329
+    },
+    {
+      "type": "node",
+      "id": 5432988163,
+      "lat": -4.0536925,
+      "lon": 39.6653987
+    },
+    {
+      "type": "node",
+      "id": 5432988164,
+      "lat": -4.0536402,
+      "lon": 39.6654788
+    },
+    {
+      "type": "node",
+      "id": 5432988165,
+      "lat": -4.0535235,
+      "lon": 39.6654017
+    },
+    {
+      "type": "node",
+      "id": 5432988166,
+      "lat": -4.0535972,
+      "lon": 39.6653093
+    },
+    {
+      "type": "node",
+      "id": 5432988167,
+      "lat": -4.0537719,
+      "lon": 39.6655693
+    },
+    {
+      "type": "node",
+      "id": 5432988168,
+      "lat": -4.0538549,
+      "lon": 39.6656617
+    },
+    {
+      "type": "node",
+      "id": 5432988169,
+      "lat": -4.053778,
+      "lon": 39.6657449
+    },
+    {
+      "type": "node",
+      "id": 5432988170,
+      "lat": -4.0537104,
+      "lon": 39.6656586
+    },
+    {
+      "type": "node",
+      "id": 5311897976,
+      "lat": -4.0565824,
+      "lon": 39.6721265
+    },
+    {
+      "type": "node",
+      "id": 5311897977,
+      "lat": -4.0565074,
+      "lon": 39.6721614
+    },
+    {
+      "type": "node",
+      "id": 5311897978,
+      "lat": -4.0564874,
+      "lon": 39.6721064
+    },
+    {
+      "type": "node",
+      "id": 5311897979,
+      "lat": -4.056561,
+      "lon": 39.6720716
+    },
+    {
+      "type": "node",
+      "id": 3848640818,
+      "lat": -4.0428987,
+      "lon": 39.7015954
+    },
+    {
+      "type": "node",
+      "id": 3848640824,
+      "lat": -4.0431599,
+      "lon": 39.7016879
+    },
+    {
+      "type": "node",
+      "id": 3848640825,
+      "lat": -4.042911,
+      "lon": 39.7015646
+    },
+    {
+      "type": "node",
+      "id": 3848640819,
+      "lat": -4.0427389,
+      "lon": 39.7020145
+    },
+    {
+      "type": "node",
+      "id": 3848640820,
+      "lat": -4.0431138,
+      "lon": 39.7021685
+    },
+    {
+      "type": "node",
+      "id": 3848640821,
+      "lat": -4.0432275,
+      "lon": 39.7019405
+    },
+    {
+      "type": "node",
+      "id": 3848640822,
+      "lat": -4.0432275,
+      "lon": 39.7018481
+    },
+    {
+      "type": "node",
+      "id": 3848640823,
+      "lat": -4.0432091,
+      "lon": 39.7017495
+    },
+    {
+      "type": "node",
+      "id": 4107591484,
+      "lat": -4.0328504,
+      "lon": 39.7073296
+    },
+    {
+      "type": "node",
+      "id": 4107591485,
+      "lat": -4.0328297,
+      "lon": 39.7072999
+    },
+    {
+      "type": "node",
+      "id": 4107591486,
+      "lat": -4.0327695,
+      "lon": 39.7073482
+    },
+    {
+      "type": "node",
+      "id": 4107591487,
+      "lat": -4.0327912,
+      "lon": 39.7073768
+    },
+    {
+      "type": "node",
+      "id": 4107591488,
+      "lat": -4.0319391,
+      "lon": 39.7121589
+    },
+    {
+      "type": "node",
+      "id": 4107591889,
+      "lat": -4.0318739,
+      "lon": 39.7121309
+    },
+    {
+      "type": "node",
+      "id": 4107591890,
+      "lat": -4.0318226,
+      "lon": 39.712257
+    },
+    {
+      "type": "node",
+      "id": 4107591891,
+      "lat": -4.031882,
+      "lon": 39.7122873
+    },
+    {
+      "type": "node",
+      "id": 2261412850,
+      "lat": -4.0207444,
+      "lon": 39.720608
+    },
+    {
+      "type": "node",
+      "id": 2261412852,
+      "lat": -4.0207123,
+      "lon": 39.7206482
+    },
+    {
+      "type": "node",
+      "id": 2261412862,
+      "lat": -4.020702,
+      "lon": 39.7207236
+    },
+    {
+      "type": "node",
+      "id": 2261412870,
+      "lat": -4.0206534,
+      "lon": 39.7209513
+    },
+    {
+      "type": "node",
+      "id": 2261412887,
+      "lat": -4.0207444,
+      "lon": 39.7206992
+    },
+    {
+      "type": "node",
+      "id": 2261412900,
+      "lat": -4.0207604,
+      "lon": 39.720836
+    },
+    {
+      "type": "node",
+      "id": 4107480490,
+      "lat": -4.0207868,
+      "lon": 39.7211187
+    },
+    {
+      "type": "node",
+      "id": 4107480491,
+      "lat": -4.0212309,
+      "lon": 39.7210462
+    },
+    {
+      "type": "node",
+      "id": 4107480492,
+      "lat": -4.021271,
+      "lon": 39.721352
+    },
+    {
+      "type": "node",
+      "id": 4107480493,
+      "lat": -4.0208215,
+      "lon": 39.7214056
+    },
+    {
+      "type": "node",
+      "id": 2261412854,
+      "lat": -4.0198104,
+      "lon": 39.7212523
+    },
+    {
+      "type": "node",
+      "id": 2261412858,
+      "lat": -4.0204688,
+      "lon": 39.7202995
+    },
+    {
+      "type": "node",
+      "id": 2261412881,
+      "lat": -4.0194791,
+      "lon": 39.7207881
+    },
+    {
+      "type": "node",
+      "id": 2261412892,
+      "lat": -4.0198725,
+      "lon": 39.7208255
+    },
+    {
+      "type": "node",
+      "id": 2261417376,
+      "lat": -4.0195353,
+      "lon": 39.7213211
+    },
+    {
+      "type": "node",
+      "id": 2261417383,
+      "lat": -4.0190016,
+      "lon": 39.7210912
+    },
+    {
+      "type": "node",
+      "id": 6339706595,
+      "lat": -4.0197083,
+      "lon": 39.7205888
+    },
+    {
+      "type": "node",
+      "id": 2261417378,
+      "lat": -4.0195824,
+      "lon": 39.7213972
+    },
+    {
+      "type": "node",
+      "id": 2261417387,
+      "lat": -4.0193868,
+      "lon": 39.7214042
+    },
+    {
+      "type": "node",
+      "id": 2261417389,
+      "lat": -4.0192427,
+      "lon": 39.7214861
+    }
+  ]
+}
